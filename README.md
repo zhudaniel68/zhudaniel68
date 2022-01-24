@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhudaniel68
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning C# .net 
-- 💞️ I’m looking to collaborate on eShop www.dzappone.cn development
+- 🌱 I’m currently working on eShop www.dzappone.cn project
+- 💞️ I’m looking to collaborate on software product related software development
 - 📫 Can be reached via zhudaniel@hotmail.com
 
 <!---
